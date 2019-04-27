@@ -1,0 +1,68 @@
+.menu{
+   border: 1px solid black;
+    padding: 6px;
+    color:white;
+    background-color: black;
+    width: 100% ;
+   
+}
+    
+.mac:hover{
+    color: gray;
+    cursor: pointer;
+    transition: .5s;
+}
+.ipad:hover{
+    color: gray;
+    cursor: pointer;
+    transition: .5s;
+}.iphone:hover{
+    color: gray;
+    cursor: pointer;
+    transition: .5s;
+}.watch:hover{
+    color: gray;
+    cursor: pointer;
+    transition: .5s;
+}.tv:hover{
+    color: gray;
+    cursor: pointer;
+    transition: .5s;
+}.mus:hover{
+    color: gray;
+    cursor: pointer;
+    transition: .5s;
+}.mussup:hover{
+    color: gray;
+    cursor: pointer;
+    transition: .5s;
+}
+.ipxr, .regis ,.watch1{
+    text-align: center;
+    font-family: "Source Sans pro"
+}
+.para1
+{
+    text-align: center;
+    font-family: "Source Sans pro";
+    font-size: 19px;
+    font-weight: 600;
+}
+.upra
+{
+    text-align: center;
+}
+.watch1 h6{
+    color:red;
+
+}
+
+.foot{
+  /* text-align: center; */
+  margin-left: 220px;
+}
+
+.foot a{
+    text-decoration: none;
+
+}
